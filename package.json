@@ -1,0 +1,13 @@
+{
+  "name": "game.ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Seven",
+  "license": "MIT",
+  "scripts": {
+    "build":"tsc "
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
